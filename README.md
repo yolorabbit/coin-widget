@@ -12,7 +12,7 @@ Features built
 - Dark and light Mode.
 
 
-The tech stack I used for this project included Next.js, Typescript, Chakra UI, ethers.js, and wagmi.
+The tech stack I used for this project included Next.js, Typescript, Chakra UI, ethers.js, and wagmi, viem.
 
 You can view the deployment at this link: https://coin-widget-build.vercel.app/
 
